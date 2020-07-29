@@ -4,4 +4,4 @@
  
  # You check website using following link 
  
- https://pikpriyanka.github.io/chroma-web/
+  https://me-priyanka.github.io/chroma-web/
